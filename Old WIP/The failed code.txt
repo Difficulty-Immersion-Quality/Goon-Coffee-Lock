@@ -1,4 +1,5 @@
 // ========================== Coffee Lock Toggle ==========================
+// TODO: Max - Did you try creating a new action resource group with warlock slots as the first entry? Base game uses SpellSlotsGroup like most else in the game
 
 new entry "Goon_CoffeeLockToggle"
 type "PassiveData"
